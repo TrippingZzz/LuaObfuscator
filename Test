@@ -1,7 +1,6 @@
 
 <html>
     <script src="https://apis.google.com/js/platform.js"></script>
-    <script src="https://discordapp.com/api/guilds/514966400347930624/widget.json"></script>
     <head>
         <title>Aspect Script Obfuscator</title>
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
