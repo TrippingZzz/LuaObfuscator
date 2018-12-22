@@ -1,0 +1,13 @@
+<html>
+    <script src="https://apis.google.com/js/platform.js"></script>
+    <head>
+        <title>Aspect Script Obfuscator</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    </head>
+    <body>
+        <strong>Known bugs</strong>
+        <ul>
+		<br>
+		<br>
+		<form action = "" method = "POST" enctype = "multipart/form-data"><input type = "file" name = "script" /><br>Custom Variable Name: <input type = "text" placeholder="AspectNetwork" value="AspectNetwork" name = "variablename" /><br><input name="submit" type="submit" id="submit" value="Obfuscate script" />&nbsp;<input name="reset" type="reset" id="reset" tabindex="5" value="Clear file." /><ul>    <li></ul><textarea style="width:100%; height:75%;" readonly></textarea></form>    </body>
+</html>
